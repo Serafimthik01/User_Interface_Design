@@ -1,0 +1,22 @@
+﻿<Window x:Class="Wpf.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf"
+        mc:Ignorable="d"
+        Title="О разработчике" Height="450" Width="800">
+    <Grid>
+
+        <Image Opacity="0.2" HorizontalAlignment="Center" Height="434" VerticalAlignment="Center" Width="800" Source="/restrauntlogo.png" Stretch="Fill"/>
+
+        <Image HorizontalAlignment="Left" Height="158" Margin="545,10,0,0" VerticalAlignment="Top" Width="230" Source="/restrauntlogo.png" Stretch="Fill"/>
+        <Label Content="Ресторан: 'Menu'" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+
+        <Label Content="Разработал интерфейс: Батуро Серафим Александрович" HorizontalAlignment="Left" Margin="26,113,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="Автоматизированная система ресторана для онлайн-заказов" HorizontalAlignment="Left" Margin="26,79,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="Контакты для связи:" HorizontalAlignment="Right" Margin="0,287,25,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="E-mail: serafim@gmail.com" HorizontalAlignment="Right" Margin="0,318,25,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="Телефон: 89505244323" HorizontalAlignment="Right" Margin="0,349,25,0" VerticalAlignment="Top" FontSize="18"/>
+    </Grid>
+</Window>

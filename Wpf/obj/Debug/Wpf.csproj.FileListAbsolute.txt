@@ -1,0 +1,34 @@
+C:\Users\Lenovo\Desktop\FTD\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\Lenovo\Desktop\FTD\Wpf\bin\Debug\Wpf.exe
+C:\Users\Lenovo\Desktop\FTD\Wpf\bin\Debug\Wpf.pdb
+C:\Users\Lenovo\Desktop\FTD\Wpf\obj\Debug\Wpf.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\FTD\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\FTD\Wpf\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\FTD\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\FTD\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\FTD\Wpf\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\FTD\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\Lenovo\Desktop\FTD\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\FTD\Wpf\obj\Debug\Wpf.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\FTD\Wpf\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\FTD\Wpf\obj\Debug\Wpf.exe
+C:\Users\Lenovo\Desktop\FTD\Wpf\obj\Debug\Wpf.pdb
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\bin\Debug\Wpf.exe
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\bin\Debug\Wpf.pdb
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\Wpf.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\Wpf.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\Wpf.exe
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\Wpf.pdb
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\Window1.g.cs
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\Window1.baml
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\Login.g.cs
+C:\Users\Lenovo\Desktop\SurGU\3 курс\ФТД 3 курс\ФТД лабы\1 лаба\Wpf\obj\Debug\Login.baml
